@@ -1,0 +1,48 @@
+$primary-color: #3585B7;
+$primary-color-dark: #3585B7;
+$light-gray: #e0e0e0;
+$gold: #c89a32;
+$orange: #f58d45;
+$white: #fff;
+$green: #0a8c5b;
+$green-18: #189c5c;
+$black: #000;
+$black-50: #505050;
+$black-1c: #1c2c25;
+$grey: #929292;
+$grey-65: #696464;
+$black-4D: #4d4d4d;
+$full-height: 100vh;
+
+.text-black {
+  color: $black;
+}
+.text-black-50 {
+  color: $black-50;
+}
+.text-black-30 {
+  color: #303030;
+}
+
+.text-grey {
+  color: $grey;
+}
+
+.text-black-4D {
+  color: $black-4D;
+}
+
+.text-grey-65 {
+  color: $grey-65;
+}
+
+.text-green-18 {
+  color: $green-18;
+}
+
+.bg-green {
+  background-color: $green-18;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
